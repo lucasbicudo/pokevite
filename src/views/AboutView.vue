@@ -7,7 +7,7 @@
           PokeVite foi desenvolvida através do curso de Vue + Vite, ministrado pelo professor Yuri Marcon
         </p>
         <h3>Para rodar o projeto</h3>
-        <p>git clone https://github.com/yurimarcon/PokeVite.git</p>
+        <p>git clone https://github.com/lucasbicudo/pokevite</p>
         <p>cd PokeVite</p>
         <p>npm i</p>
         <p>npm run dev</p>
